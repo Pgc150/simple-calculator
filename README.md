@@ -23,9 +23,5 @@ A fully functional web-based calculator built with HTML, CSS, and JavaScript.
     ```
 2.  Open the `index.html` file in your preferred web browser.
 
-## Live Demo
 
-You can try the calculator live [here](https://your-username.github.io/simple-calculator/).
-
----
 *This project was created as a learning exercise in web development.*
